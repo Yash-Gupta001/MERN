@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.js"],"names":["App"],"mappings":";;AAAA,IAAMA,GAAG,GAAG,SAANA,GAAM,GAAK;AACb;AACH,CAFD","sourcesContent":["const App = () =>{\r\n    return\r\n}"],"file":"App.dev.js"}
