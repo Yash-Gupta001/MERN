@@ -1,0 +1,43 @@
+JSON, or JavaScript Object Notation, is a lightweight and human-readable data format used for data exchange between systems. It is widely adopted because of its simplicity and compatibility with most modern programming languages.
+
+---------------------------------------------------------------------------------------------------------------------------------
+Key Features:
+Lightweight: JSON uses a concise syntax based on key-value pairs, making it efficient for transmitting data over networks.
+
+Human-Readable: Its straightforward structure is easy for developers to read and write.
+
+Language-Agnostic: While derived from JavaScript, JSON is supported by virtually all programming languages, including Python, Java, and C#.
+
+---------------------------------------------------------------------------------------------------------------------------------
+Structure:
+JSON represents data as:
+
+Objects: Enclosed in curly braces {}, containing key-value pairs.
+Arrays: Enclosed in square brackets [], holding a list of values.
+
+Example-:
+{
+  "name": "Yash",
+  "age": 22,
+  "skills": ["Flutter", "React", "Firebase"]
+}
+
+---------------------------------------------------------------------------------------------------------------------------------
+Uses of JSON:
+Data Transmission: Widely used in APIs for client-server communication.
+Example: RESTful APIs often send responses in JSON format.
+
+Configuration Files: Many applications use JSON for configuration settings.
+
+Data Storage: It serves as a format for lightweight databases like MongoDB.
+
+---------------------------------------------------------------------------------------------------------------------------------
+Why JSON is Popular:
+Efficient Parsing: Many programming languages have built-in libraries to parse and generate JSON.
+Compactness: Compared to XML, JSON is less verbose  (verbose matlab jisme jada words use hote hai ek tarah se lengthy keh sakte hai), making it faster to transmit and process.
+Compatibility with JavaScript: It seamlessly integrates with JavaScript, making it a natural choice for web applications.
+
+---------------------------------------------------------------------------------------------------------------------------------
+JSON is often compared to XML, its predecessor, but JSON is simpler and faster, which has led to its dominance in modern web and mobile development.
+
+

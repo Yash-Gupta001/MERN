@@ -8,4 +8,26 @@
 
 */
 
+/*
+
+javascript has one type Number which stores 
+number , decimal, negative nummber, whole number, 
+
+*/
+
+/*
+
+
++ -: it adds
+% -: it gives remimnder
+/ -: division
+- -: for subract
+* -: for multiplication
+
+** -: power (e.g 2 ** 4 = 2*2*2*2)
+
+
+
+*/
+
 
